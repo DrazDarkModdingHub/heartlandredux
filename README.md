@@ -33,13 +33,6 @@ If Wabbajack hasn't done so already, set the Download Location to Heartland\down
 
 Within the Heartland folder, copy the contents of the **Game Folder Files** folder to your root Oblivion directory (e.g. `C:\Steam\steamapps\common\Oblivion`).
 
-### Running Better Oblivion Sorting Software (BOSS) with User Rules
-
-1. Run **ModOrganizer.exe** in the Heartland MO2 folder.
-3. Select **BOSS GUI** from the **executable dropdown** in MO2 and hit **Run**. The BOSS GUI will appear over the top of MO2. Hit **Run BOSS** without changing any of the settings. It will now take some time to download the latest masterlist, if it hasn't done so already. (This occasionally fails - if this happens, first ensure 'Update Masterlist' is ticked, then try running BOSS again. Eventually, you should receive the masterlist. When you are successful, untick 'Update Masterlist'.). After the masterlist is obtained, BOSS will sort your plugins and output an HTML log when completed.
-4. Download the **userlist.txt** file from [here](https://drive.google.com/open?id=1YMnIIi1illJe7TeQdkRvX64FbfzmsiwU), cut to  **tools/BOSS/bin/Release-64/oblivion** and overwrite any existing file there.
-5. Repeat step 3, using BOSS to sort your load order with the newly applied user rules.
-
 ### Special Installation Steps
 
 ##### _Steam and Retail Users_
@@ -165,20 +158,6 @@ Oblivion is only designed to run on the first two cores of a PC, but by default,
 5. Restart Oblivion!
 
 ![](https://github.com/TDarkShadow/heartland/blob/master/img/ProcessLasso.png)
-
-### Decompressing Vanilla Game BSAs
-Courtesy of Zilav:
-
-_"Back when Oblivion was released in 2006 for old generation consoles the overall size occupied by the game mattered so vanilla BSA archives use zlib compression to reduce overall assets size on the disk. However assets need to be decompressed by the game on the go which takes extra time leading to longer loading times and additional stutter when moving in exterior worldspaces while cells being loaded in background._
-
-_BSA Decompressor recreates BSA archives without zlib compression so the game is limited only by your hardware disk system performance. All vanilla assets remain in uncompressed BSA archives."_
-
-1. In MO2, find the **Unofficial Shivering Isles Patch** in the mods pane, and right click **Open in Explorer**. Cut **DLCShiveringIsles - Faces.bsa** to the Data folder in your Oblivion game directory.
-2. Close MO2 and go to Heartland/tools/Oblivion BSA Decompressor. **Run Oblivion BSA Decompressor.exe**.
-3. Select **Decompress**, then close the tool once it has finished. Your vanilla BSA files will now be decompressed.
-4. Cut **DLCShiveringIsles - Faces.bsa** back to Heartland/mods/Unofficial Shivering Isles Patch.
-
-![](https://github.com/TDarkShadow/heartland/blob/master/img/BSADecompress.png)
 
 ## Extra Notes
 
