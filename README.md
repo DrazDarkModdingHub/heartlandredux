@@ -39,46 +39,8 @@ Within the Heartland folder, copy the contents of the **Game Folder Files** fold
 
 Only applicable if you have a Steam or retail copy of Oblivion. GOG users can skip this step.
 
-* Within the Heartland MO2 folder, go to **tools/Oblivion RAM Optimization** and run **4gb patch.exe**.
 * Target both the **Oblivion.exe** and **OblivionLauncher.exe** executables in your root Oblivion directory. Both executables will now have been patched to improve the memory that can be allocated to their processes.
 
-##### _Standard GOTY Users_
-
-Only applicable if you purchased the standard GOTY version of Oblivion. (if this is the case, you have the Knights of the Nine and Shivering Isles expansions, but not the house plugins or Horse Armor).
-
-* Disable the following mods in the left pane:
-1. **Unofficial Oblivion DLC Patches**
-2. **Book Jackets for Misc. DLC**
-3. **Interior Draw Distance ENB Fog Fix**
-4. **Snowy Road to Bruma DLC Frostcrag Patch**
-5. **Harvest [Flora] - DLCFrostcrag.esp**
-6. **Harvest [Flora] - DLCVileLair.esp**
-7. **Interior Draw Distance ENB Fog Fix**
-8. **Grimbot's Spell Tomes Jackets**
-
-##### _Ultrawide Users_
-
-Only applicable for use with a monitor that has greater than a 16:9 aspect ratio.
-
-* Open the **INI Editor in MO2** (jigsaw/puzzle icon on the top bar).
-* Under **[Display]**, change **iSizeW** and **iSizeH** to match your resolution. For example, for 1440p, iSizeW=3440 and iSizeH=1440.
-* Download the **Ultra Widescreen Fix for Heartland** from [here](https://drive.google.com/open?id=1dnWbrmT_zcIESIqmLWMVSzHaEdQgkCs8) and install through MO2, placing it in the **Install Specific Tweaks** section.
-* Download the **Black Rectangle Ultrawide Fix** from [here](https://www.nexusmods.com/oblivion/mods/48351), and install through MO2, placing it in the **Install Specific Tweaks** section.
-
-### Creating a Wrye Bash Bashed Patch
-
-1. Select **Wrye Bash** from the in MO2 and hit **Run**. If prompted for a game choice, select **Oblivion**.
-2. Within the Wrye Bash interface, right click the plugin right at the bottom (**Bashed Patch 0.esp**) and click **Rebuild Patch**.
-3. In the following interface, make sure that the following options are enabled for the best experience (courtesy of Mexxy):
-    * **Tweak Assorted -> DarNify Books** ticked so books look as intended
-    * **Tweak Settings -> Arrow Speed is x2.0** for more responsive archery (right click box to change)
-    * **Tweak Actors -> Irresponsible Creatures** ticked
-    * **Tweak Settings -> Crime: Alarm Distance at 2000** to reduce guard crime intuition range (right click to change)
-    * **Tweak Settings -> Actor: Greeting Distance at 100** for less NPC chatter (right click to change)
-    * **Tweak Settings -> Warning: Exterior Distance to Hostiles at 2000** for reduced combat distance outdoors (right click to change)
-4. When asked about mods to be de-activated and incorporated into the patch, simply **press OK**.
-5. Hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
-6. Back in MO2, right click the **Overwrite** panel at the bottom of the mods pane and select **Create mod**. Call it **Bashed Patch**, place it in the **Install Specific Tweaks** section, and ensure it is enabled after installation.
 
 ### Running the Game
 1. If you use Steam, ensure it is running.
@@ -185,10 +147,11 @@ Oblivion is only designed to run on the first two cores of a PC, but by default,
 ## Credits
 
 * **Bevilex** for their fantastic visual overhaul and guide
+* **Sam** for the original port of Bevilex's guide and subsequently Heartland
 * **Halgari** for the innovative Wabbajack tool
-* **Foxman** for this handy readme template and their help with testing
+* **Foxman** for this handy readme template and his help with testing
+* **jdsmith2816** and **WOJO** the OG Wabbajack Oblivion modders
+* My good friend, **TDarkShadow**, for stewarding this list despite having no knowledge of Oblivion
+* **iam5** for relentless dedication to support for this list
 * **Aerialvas**, **Peria**, and **Mr.Vanato** for their useful optimisation tips and troubleshooting assistance in the heartland-support channel
-* **jdsmith2816** for their help integrating the OUT and SIUT mods in to the installer, and their optimisation of vanilla meshes and textures
 * All the testers and users who have taken time to provide feedback: **Seear**, **Aronax**, **epixxor**, **Duriel**, **Foxman**, **Aerialvas**, **Peria**, **ShadowFyre**, **Mr.Vanato**, **Nazo**, **Stormline**, **MrG**, **carl**, **KatieLW19**,  **KarmasLives22**, **ELDYLO**, **Severance**, **Zierry**, **Gatonegro**, **Bartun**, **b e e g y o s h i**, **Epic**, **NaterOfTheWired** and more!
-
-[Heartland Modlist Support]: https://discord.gg/xQmzNASbz5
