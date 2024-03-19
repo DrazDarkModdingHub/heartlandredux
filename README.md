@@ -88,5 +88,6 @@ Given this, you may want to consider adding additional mods to enhance Oblivion'
 * **jdsmith2816** and **WOJO** the OG Wabbajack Oblivion modders
 * My good friend, **TDarkShadow**, for stewarding this list despite having no knowledge of Oblivion
 * **iam5** for relentless dedication to support for this list
+* **1Mac** and **Dispensation** for compiling helpful information in their modding guides  
 * **Aerialvas**, **Peria**, and **Mr.Vanato** for their useful optimisation tips and troubleshooting assistance in the heartland-support channel
 * All the testers and users who have taken time to provide feedback: **Seear**, **Aronax**, **epixxor**, **Duriel**, **Foxman**, **Aerialvas**, **Peria**, **ShadowFyre**, **Mr.Vanato**, **Nazo**, **Stormline**, **MrG**, **carl**, **KatieLW19**,  **KarmasLives22**, **ELDYLO**, **Severance**, **Zierry**, **Gatonegro**, **Bartun**, **b e e g y o s h i**, **Epic**, **NaterOfTheWired** and more!
