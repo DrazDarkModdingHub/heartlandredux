@@ -15,7 +15,7 @@
 
 ## 1.1
 
--Added Drazden's ORC preset for NAO
--Added Oblivion decompressed records
+-Added Drazden's ORC preset for NAO  
+-Added Oblivion decompressed records  
 -Added Oblivion decompressed BSAs
 
