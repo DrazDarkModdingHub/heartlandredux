@@ -1,6 +1,6 @@
 ![](https://github.com/Drazden/heartlandredux/blob/master/imgTitle.png)
 
-### Documentation and Instructions for Installer Version 1.0, Wabbajack 3.5.0.1+
+### Documentation and Instructions for Installer Version 1.1, Wabbajack 3.5.0.1+
 
 **NOTE**: Welcome! Before we get started, a note: if you encounter issues with your installation, the Heartland support channel can be found on (Heartland Modlist Support)[xx]. Please direct any and all support queries there.
 
@@ -11,8 +11,8 @@
 *   **Default Oblivion configuration files**. To generate them, first ensure that the `Documents/MyGames/Oblivion` folder has been wiped, then **launch the game once in vanilla**.
 *   Around **50GB free storage space**.
     *   6 GB for Oblivion itself.
-    *   xx GB for the mod downloads.
-    *   xx GB for the modlist installation.
+    *   22 GB for the mod downloads.
+    *   47 GB for the modlist installation.
 *   A Nexus Premium account, or a lot of time to download the mods manually!
 
 ### Using the Wabbajack Autoinstaller
@@ -48,18 +48,12 @@ Only applicable if you have a Steam or retail copy of Oblivion. GOG users can sk
 2. To play the game, select **Oblivion** in the MO2 **executable dropdown** and hit **Run.** **You do not need to add OBSE to MO2. MO2 will automatically load OBSE when selecting Oblivion**.
 3. You're ready to go! Check the optional steps below if you would like to further enhance your experience.
 
-## Optional Post Installation Instructions
+### Profiles
 
-### Heartland Optionals
+The Heartland modlist overhauls visuals and stability, leaving the gameplay systems (questing, levelling, level scaling, combat) in a vanilla state. Certain mods that may be considered 'visual' have also been omitted. Mods that replace vanilla assets or modify vanilla locations (like Better Cities) will typically need to be patched in the same way gameplay mods are.  
 
-This list includes several optional configurations pre-installed, which can be swapped in and out as desired. Each configuration is denoted by an MO2 mod separator, which includes step-by-step instructions on how to enable the optional mods. To view, simply right click the seperator select Information, then select the Notes tab. You will be presented with instructions like below:
-
-### Mod Suggestions, Gameplay Profiles, and Installing Additional Mods
-
-The base Heartland modlist overhauls visuals and stability, leaving the gameplay systems (questing, levelling, level scaling, combat) in a vanilla state. Certain mods that may be considered 'visual' have also been omitted. Mods that replace vanilla assets or modify vanilla locations (like Better Cities) will typically need to be patched in the same way gameplay mods are.  
-Given this, you may want to consider adding additional mods to enhance Oblivion's gameplay. Below are some general steps to follow in order to add mods on top of the list. Please note though, we cannot provide support for list modifications, so you are more than welcome to play around, but do so at your own risk!
-
-#### General Steps
+- The *Lite* profile is designed to be as compatible as possible. Beyond bug fixes, very little of the base game data has been modified.
+- The *Full* profile has more features but is less compatible with new mods. You will need to patch additional mods you add as NPCs, weathers, weapons, and more have been modified. This profile also requires the deluxe edition DLC (Horse Armor and player homes)  
 
 
 ## Extra Notes
