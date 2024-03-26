@@ -41,6 +41,16 @@ Only applicable if you have a Steam or retail copy of Oblivion. GOG users can sk
 * A file named '4gb patch.exe' should have been copied with the **Game Folder Files**
 * Target both the **Oblivion.exe** and **OblivionLauncher.exe** executables in your root Oblivion directory. Both executables will now have been patched to improve the memory that can be allocated to their processes.
 
+### BSA Decompression  
+
+This step is not strictly required, but may improve your performance.  
+
+1. In your Heartland installation, navigate to the **Tools** folder and then the **Oblivion BSA Decompressor** folder.
+2. Run **Oblivion BSA Decompressor.exe**.
+3. Point it to your Oblivion installation and let it run  .
+
+Typically this will reduce stuttering and load times by removing outdated 2006 zlib compression. This may mean your Oblivion installation will take up slightly more storage space.
+
 ## Post Installation 
 
 ### Running the Game
@@ -53,7 +63,7 @@ Only applicable if you have a Steam or retail copy of Oblivion. GOG users can sk
 The Heartland modlist overhauls visuals and stability, leaving the gameplay systems (questing, levelling, level scaling, combat) in a vanilla state. Certain mods that may be considered 'visual' have also been omitted. Mods that replace vanilla assets or modify vanilla locations (like Better Cities) will typically need to be patched in the same way gameplay mods are.  
 
 - The *Lite* profile is designed to be as compatible as possible. Beyond bug fixes, very little of the base game data has been modified.
-- The *Full* profile has more features but is less compatible with new mods. You will need to patch additional mods you add as NPCs, weathers, weapons, and more have been modified. This profile also requires the deluxe edition DLC (Horse Armor and player homes)  
+- The *Full* profile has more features but is less compatible with new mods. You will need to patch additional mods you add as NPCs, weathers, weapons, and more have been modified. This profile also requires the deluxe edition DLC (Horse Armor and player homes).  
 
 ### Extra Notes
 
