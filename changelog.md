@@ -2,7 +2,7 @@
 
 ## 1.1.1
 
--INI Tweaks
+-INI Tweaks  
 -Potential fix for BSAs for non steam editions  
 
 ## 1.1
