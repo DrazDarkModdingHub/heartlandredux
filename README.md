@@ -10,7 +10,7 @@ Welcome to Heartland Redux! This modlist is a fork of [Heartland](https://github
 ### Prerequisites:
 *   A **vanilla copy of Oblivion** in the **English language** with at least the Knights of the Nine and Shivering Isles DLCs, **obtained from [Steam](https://store.steampowered.com/app/22330/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition/) or [GOG](https://www.gog.com/en/game/elder_scrolls_iv_oblivion_game_of_the_year_edition_deluxe_the)**, and **installed outside of C:\Program Files**.
 *   **Default Oblivion configuration files**. To generate them, first ensure that the `Documents/MyGames/Oblivion` folder has been wiped, then **launch the game once in vanilla**.
-*   Around **50GB free storage space**.
+*   Around **75GB free storage space**.
     *   6 GB for Oblivion itself.
     *   22 GB for the mod downloads.
     *   47 GB for the modlist installation.
@@ -20,14 +20,14 @@ Welcome to Heartland Redux! This modlist is a fork of [Heartland](https://github
 
 1. **Download** the latest version of Wabbajack from the [Wabbajack Github](https://github.com/wabbajack-tools/wabbajack/releases/latest), and **place the Wabbajack.exe** file to a new directory called **Wabbajack**, as close to the root of your drive as possible (e.g. `C:\Wabbajack` or `C:\Modding\Wabbajack`).
 2. **Create a new folder** for the modlist installation, and call it **Heartland**, placing it close to the root of your drive once again, but not within the Wabbajack folder (e.g. `C:\Heartland` or `C:\Modding\Heartland`).
-Ensure you have at least xxGB of hard drive space.
+Ensure you have at least 75GB of hard drive space.
 1. **Launch Wabbajack.exe** from within the Wabbajack folder. Click **Browse Modlists**, and enable **Show Unofficial Lists**. Locate the **Heartland** modlist in the gallery and click the **Download and Install** button in the corner.
      * Alternatively, the modlist can be downloaded manually from [the Releases tab](https://github.com/Drazden/heartlandredux/releases/latest). If installing manually, place the modlist file in the Wabbajack directory, and select **Install from Disk**.
 2. Under Installation Location, **select the Heartland folder** you created in step 2.
 If Wabbajack hasn't done so already, set the Download Location to Heartland\downloads (e.g. `C:\Heartland\download` or `C:\Modding\Heartland\downloads`).
 1. Click **Begin**.
 2. Wabbajack will open a browser and ask for Nexus authorisation. Log in and then hit **Authorise.** (_If you get an error on authorisation, download and install [.Net Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) and run the installer again_)
-3. Wabbajack will now download and install the mods specified in the installer. The download size is approximately xx GB so this may take a little while. The installer should keep you informed of progress.
+3. Wabbajack will now download and install the mods specified in the installer. The download size is approximately 22 GB so this may take a little while. The installer should keep you informed of progress.
 4. After the **installation complete** message appears, close the installer.
 
 ### Game Folder Files
