@@ -1,12 +1,13 @@
 ![](https://github.com/Drazden/heartlandredux/blob/master/imgTitle.png)
 
-### Documentation and Instructions for Installer Version 1.1, Wabbajack 3.5.0.1+
+### Documentation and Instructions for Heartland Redux 1.0+, Wabbajack 3.5.0.1+
 
-**NOTE**: Welcome! Before we get started, a note: if you encounter issues with your installation, the Heartland support channel can be found on (Heartland Modlist Support)[xx]. Please direct any and all support queries there.
+Welcome to Heartland Redux! This modlist is a fork of [Heartland](https://github.com/TDarkShadow/heartland/tree/master), originally created by Sam, which in turn was based off [Bevilex's Modlist for Oblivion](https://www.nexusmods.com/oblivion/mods/47591). Heartland has seen many changes through the years (it was one of the first Wabbajack modlists at launch!), but at its core it has remained a comprehensive graphical overhaul for The Elder Scrolls Oblivion. Redux was created by Drazden to be streamlined, sustainable, and simple.
 
-## Mandatory Instructions
 
-#### Prerequisites:
+## Installation  
+
+### Prerequisites:
 *   A **vanilla copy of Oblivion** in the **English language** with at least the Knights of the Nine and Shivering Isles DLCs, **obtained from [Steam](https://store.steampowered.com/app/22330/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition/) or [GOG](https://www.gog.com/en/game/elder_scrolls_iv_oblivion_game_of_the_year_edition_deluxe_the)**, and **installed outside of C:\Program Files**.
 *   **Default Oblivion configuration files**. To generate them, first ensure that the `Documents/MyGames/Oblivion` folder has been wiped, then **launch the game once in vanilla**.
 *   Around **50GB free storage space**.
@@ -33,15 +34,14 @@ If Wabbajack hasn't done so already, set the Download Location to Heartland\down
 
 Within the Heartland folder, copy the contents of the **Game Folder Files** folder to your root Oblivion directory (e.g. `C:\Steam\steamapps\common\Oblivion`).
 
-### Special Installation Steps
-
-##### _Steam and Retail Users_
+#### _Steam and Retail Users_
 
 Only applicable if you have a Steam or retail copy of Oblivion. GOG users can skip this step.
 
 * A file named '4gb patch.exe' should have been copied with the **Game Folder Files**
 * Target both the **Oblivion.exe** and **OblivionLauncher.exe** executables in your root Oblivion directory. Both executables will now have been patched to improve the memory that can be allocated to their processes.
 
+## Post Installation 
 
 ### Running the Game
 1. If you use Steam, ensure it is running.
@@ -55,8 +55,7 @@ The Heartland modlist overhauls visuals and stability, leaving the gameplay syst
 - The *Lite* profile is designed to be as compatible as possible. Beyond bug fixes, very little of the base game data has been modified.
 - The *Full* profile has more features but is less compatible with new mods. You will need to patch additional mods you add as NPCs, weathers, weapons, and more have been modified. This profile also requires the deluxe edition DLC (Horse Armor and player homes)  
 
-
-## Extra Notes
+### Extra Notes
 
 *   Due to the way MO2 loads Oblivion and OBSE, the Steam overlay and screenshot functionality cannot be used. Use F11 to take screenshots using Oblivion Reloaded.
 
