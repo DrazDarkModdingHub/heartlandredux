@@ -1,5 +1,9 @@
 # CHANGELOG.md
 
+## 1.2  
+
+-Opted to move decompressed BSAs to post installation  
+
 ## 1.1.1
 
 -INI Tweaks  
