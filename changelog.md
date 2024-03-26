@@ -1,5 +1,9 @@
 # CHANGELOG.md
 
+## 1.2.1  
+
+-Patched artifacts redone name changes back to English  
+
 ## 1.2  
 
 -Opted to move decompressed BSAs to post installation  
