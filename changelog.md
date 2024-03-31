@@ -3,6 +3,7 @@
 ## 1.2.1  
 
 -Patched artifacts redone name changes back to English  
+-Added AveSithis Engine Fixes  
 
 ## 1.2  
 
