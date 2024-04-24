@@ -9,6 +9,7 @@ Welcome to Heartland Redux! This modlist is a fork of [Heartland](https://github
 
 ### Prerequisites:
 *   A **vanilla copy of Oblivion** in the **English language** with at least the Knights of the Nine and Shivering Isles DLCs, **obtained from [Steam](https://store.steampowered.com/app/22330/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition/) or [GOG](https://www.gog.com/en/game/elder_scrolls_iv_oblivion_game_of_the_year_edition_deluxe_the)**, and **installed outside of C:\Program Files**.
+*   Ensure that your Oblivion copy is unmodified. You may have files leftover from old modlists that you need to delete (especially ENB).
 *   **Default Oblivion configuration files**. To generate them, first ensure that the `Documents/MyGames/Oblivion` folder has been wiped, then **launch the game once in vanilla**.
 *   Around **75GB free storage space**.
     *   6 GB for Oblivion itself.
