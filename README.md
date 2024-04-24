@@ -83,7 +83,7 @@ The Heartland modlist overhauls visuals and stability, leaving the gameplay syst
 4. _Following the above instructions, there is no obse_1_2_416.dll._
    * Make sure you have copied the contents of Game Folder Files to your Oblivion game directory. The OBSE files should be present in this folder.  
 5. _Characters in my game are bald, or their hair is transparent._  
-   * This is an occasional error with Oblivion Reloaded Combined and certain graphics cards. In MO2, navigate to Oblivion Reloaded Combined (ORC) under the Oblivion Reloaded Separator. Delete the 'Extra Shaders' folder in 'Shaders/ORC'  
+   * This is an occasional error with Oblivion Reloaded Combined and certain graphics cards. In MO2, navigate to Oblivion Reloaded Combined (ORC) under the Oblivion Reloaded Separator. Delete the `Extra Shaders` folder in `Shaders/ORC`  
 
 ## Credits
 
