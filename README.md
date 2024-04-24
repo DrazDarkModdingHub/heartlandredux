@@ -81,7 +81,9 @@ The Heartland modlist overhauls visuals and stability, leaving the gameplay syst
 3. _When I run Oblivion, a new window opens and I can hear the main menu audio, but all I get is a blank/black screen._
    * MO2 is failing to load the OBSE libraries when running Oblivion leading to issues with the mods installed. To correct, click the executable dropdown in MO2, select Edit, and then check the Oblivion.exe entry. Ensure that Force Load Libraries is ticked, and click Configure Libraries. Ensure that Oblivion.exe is set to load the library obse_1_2_416.dll in your Oblivion game directory.
 4. _Following the above instructions, there is no obse_1_2_416.dll._
-   * Make sure you have copied the contents of Game Folder Files to your Oblivion game directory. The OBSE files should be present in this folder.
+   * Make sure you have copied the contents of Game Folder Files to your Oblivion game directory. The OBSE files should be present in this folder.  
+5. _Characters in my game are bald, or their hair is transparent._  
+   * This is an occasional error with Oblivion Reloaded Combined and certain graphics cards. In MO2, navigate to Oblivion Reloaded Combined (ORC) under the Oblivion Reloaded Separator. Delete the 'Extra Shaders' folder in 'Shaders/ORC'  
 
 ## Credits
 
