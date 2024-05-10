@@ -2,8 +2,9 @@
 
 ### Documentation and Instructions for Heartland Redux 1.0+, Wabbajack 3.5.0.1+
 
-Welcome to Heartland Redux! This modlist is a fork of [Heartland](https://github.com/TDarkShadow/heartland/tree/master), originally created by Sam, which in turn was based off [Bevilex's Modlist for Oblivion](https://www.nexusmods.com/oblivion/mods/47591). Heartland has seen many changes through the years (it was one of the first Wabbajack modlists at launch!), but at its core it has remained a comprehensive graphical overhaul for The Elder Scrolls Oblivion. Redux was created by Drazden to be streamlined, sustainable, and simple.
+Welcome to Heartland Redux! This modlist is a fork of [Heartland](https://github.com/TDarkShadow/heartland/tree/master), originally created by Sam, which in turn was based off [Bevilex's Modlist for Oblivion](https://www.nexusmods.com/oblivion/mods/47591). Heartland has seen many changes through the years (it was one of the first Wabbajack modlists at launch!), but at its core it has remained a comprehensive graphical overhaul for The Elder Scrolls Oblivion. Redux was created by Drazden to be streamlined, sustainable, and simple.  
 
+Join our community [Discord](https://discord.gg/UCgHPE839E).
 
 ## Installation  
 
