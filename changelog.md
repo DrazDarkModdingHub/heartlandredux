@@ -2,7 +2,7 @@
 
 ## 1.2.1  
 
--Patched artifacts redone name changes back to English (for real this time)
+-Patched artifacts redone name changes back to English (for real this time)  
 -Added AveSithis Engine Fixes  
 -Removed Lazaro's VGR fixes  
 -Added Kenneth's patch for Vanilla Gear Redux  
