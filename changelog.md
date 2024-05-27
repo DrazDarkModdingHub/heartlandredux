@@ -7,6 +7,8 @@
 -Removed Lazaro's VGR fixes  
 -Added Kenneth's patch for Vanilla Gear Redux  
 -Reverted the weird upside down torches from MIP to vanilla  
+-Updated Mod Organizer 2 to 2.5.1 RC 2 for OBMM support  
+-Removed LostDragonist's mo2 plugins  
 
 ## 1.2  
 
